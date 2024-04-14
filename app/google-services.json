@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "512589520943",
+    "project_id": "quizcraze-de561",
+    "storage_bucket": "quizcraze-de561.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512589520943:android:f33409bf438e9f9c1d26da",
+        "android_client_info": {
+          "package_name": "com.msid.quizcraze"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2bPhr_xEeKeCPO3OrXF0evAEN7EF18UY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
