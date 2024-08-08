@@ -26,7 +26,7 @@ QuizCraze is an exciting quiz application designed to challenge users' knowledge
 ## Installation
 **Clone this repository:**
 ```
-git clone https://github.com/your_username/quizcraze.git
+git clone https://github.com/simunde/quizcraze.git
 ```
 **Open the project in Android Studio.**
 
